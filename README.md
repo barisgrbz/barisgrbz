@@ -52,4 +52,4 @@ Ayrıca boş zamanlarımda **model uçaklar uçuruyor, 3 boyutlu yazıcılarla e
 
 ## 📢 **Bana Ulaşın**
 📧 **E-posta:** [barisgrbz1035@gmail.com](mailto:barisgrbz1035@gmail.com)  
-🌐 **Web Sitem:** [www.barisgurbuz.com](www.barisgurbuz.com)  
+🌐 **Web Sitem:** [www.barisgurbuz.com](https://www.barisgurbuz.com)  
