@@ -36,7 +36,7 @@ Ayrıca boş zamanlarımda **model uçaklar uçuruyor, 3 boyutlu yazıcılarla e
 - 🧠 **Yapay Zeka**
 - ✈️ **Model Uçaklar**
 
----
+----
 
 ## 🔥 **GitHub İstatistikleri**
 ![Barış Gürbüz'ün GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=barisgrbz&show_icons=true&theme=radical)
